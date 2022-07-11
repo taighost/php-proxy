@@ -1,0 +1,17 @@
+{
+  "name": "vendor_name/php-proxy",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "taigost",
+      "email": "taigost@gmail.com"
+    }
+  ],
+  "require": {
+    "curl/curl": "*",
+    "phpunit/phpunit": "9.5.21",
+    "ext-curl": "*"
+  }
+}
